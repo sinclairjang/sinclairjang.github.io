@@ -18,9 +18,9 @@ timezone: "Asia/Seoul"
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: ByteChemist                          # the main title
+title: Cosmic Computing                          # the main title
 
-tagline: Change is only constant   # it will display as the sub-title
+tagline: Godspeed!  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A github page for professional writing.
